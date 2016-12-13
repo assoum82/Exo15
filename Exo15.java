@@ -22,7 +22,7 @@ public class Exo15 {
                 //x est pour l'induce
                 x=tab[5];
                 // y est pour le diviseur
-                y=0;
+                y=0; // je te conseille de laisser ouvert 
                 System.out.printf("le resulta est"+ div(x,y));
 
 
